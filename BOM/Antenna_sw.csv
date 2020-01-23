@@ -1,0 +1,9 @@
+Comment,Description,Designator,Footprint,Quantity
+,,,,
+10nF,CAP CER 10nF X7S 0402,C1,SMD-0402C,1
+100pF,CAP CER 100pF X7S 0402,"C2, C3, C4",SMD-0402C,3
+RFSW6062,SP6T RF Switch IC ,IC1,QFN14,1
+SMA Coax Straight,"RF Coax connector, SMA, 50 ohms","J1, J2, J3, J4, J5, J6, J7",SMA-F Edge,7
+FRC Header 5X2,"Header, 5-Pin, Dual row, FRC 90deg",P1,HDR2X5,1
+10K,RES 0402,"R1, R2, R3",402,3
+33K,RES 0402,"R4, R5, R6",402,3

@@ -1,0 +1,45 @@
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC?(QFN40P200X200X60-15N-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RFSW6062TR7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RFMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RFSW6062TR7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "772-RFSW6062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S?(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=IC?-10
+Added Pin To Net: NetName=GND Pin=IC?-14
+Added Pin To Net: NetName=GND Pin=IC?-15
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC?_9 Pin=IC?-9
+Added Pin To Net: NetName=NetIC?_9 Pin=S?-1
+Added Net: Name=NetIC?_9
+Added Pin To Net: NetName=VCC Pin=IC?-4
+Added Net: Name=VCC
+Added Class: Name=Antenna_sw
+Added Room: Name=Antenna_sw

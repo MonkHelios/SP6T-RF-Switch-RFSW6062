@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: X:\Aditya_Mukherjee\electronics\projects\Antenna Switch\PCB_Doc\Antenna_sw.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=antenna_sw-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=antenna_sw-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl

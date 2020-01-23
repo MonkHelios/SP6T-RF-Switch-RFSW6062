@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+X:\Aditya_Mukherjee\electronics\projects\Antenna Switch\PCB_Doc\Project Outputs for Antenna_sw\Pick Place for Antenna_sw.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30-11-19
+Time:       02:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R6","33K","TopLayer","PCBComponent_1","130.277","76.454","90",""
+"R5","33K","TopLayer","PCBComponent_1","130.277","80.061","90",""
+"R4","33K","TopLayer","PCBComponent_1","130.277","83.642","90",""
+"R3","10K","TopLayer","PCBComponent_1","129.261","76.454","270",""
+"R2","10K","TopLayer","PCBComponent_1","129.261","80.061","270",""
+"R1","10K","TopLayer","PCBComponent_1","129.261","83.642","270",""
+"P1","Header 5X2","TopLayer","HDR2X5","124.770","80.000","270","Header, 5-Pin, Dual row"
+"J7","Component_1","TopLayer","PCBComponent_1","152.557","92.537","225",""
+"J6","Component_1","TopLayer","PCBComponent_1","127.453","92.537","315",""
+"J5","Component_1","TopLayer","PCBComponent_1","140.208","97.636","270",""
+"J4","RF_in","TopLayer","PCBComponent_1","157.555","80.000","180",""
+"J3","Component_1","TopLayer","PCBComponent_1","140.208","62.333","90",""
+"J2","SMA","TopLayer","PCBComponent_1","152.557","67.458","135",""
+"J1","Component_1","TopLayer","PCBComponent_1","127.478","67.433","45",""
+"IC1","RFSW6062TR7","TopLayer","QFN40P200X200X60-15N-D","140.000","80.000","0","Integrated Circuit"
+"C4","100pF","TopLayer","SMD-0402C","135.280","79.172","315","CAP CER 1UF 10V X7S 0402"
+"C3","100pF","TopLayer","SMD-0402C","134.366","80.086","315","CAP CER 1UF 10V X7S 0402"
+"C2","100pF","TopLayer","SMD-0402C","136.830","81.077","225","CAP CER 1UF 10V X7S 0402"
+"C1","10nF","TopLayer","SMD-0402C","136.347","78.130","315","CAP CER 1UF 10V X7S 0402"

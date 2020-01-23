@@ -1,0 +1,298 @@
+*************************************************************
+FileName = Antenna_sw.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : Antenna_sw.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Ground Plane
+      File : Antenna_sw.GP1
+
+    Adding Layer      : Ground Plane
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Power Plane
+      File : Antenna_sw.GP2
+
+    Adding Layer      : Power Plane
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : Antenna_sw.GBL
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D17
+    D22
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Antenna_sw.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Antenna_sw.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Antenna_sw.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D34
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Antenna_sw.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D45
+    D47
+    D49
+    D54
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Antenna_sw.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D17
+    D22
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Antenna_sw.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Antenna_sw.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Antenna_sw.GM2
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+*************************************************************
+

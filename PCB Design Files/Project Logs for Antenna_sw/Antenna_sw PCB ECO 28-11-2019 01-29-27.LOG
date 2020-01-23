@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=VCC Pin=P1-1
+Removed Pin From Net: NetName=CTL_3 Pin=P1-7
+Removed Pin From Net: NetName=CTL_2 Pin=P1-8
+Removed Pin From Net: NetName=CTL_1 Pin=P1-10
+Removed Member From Class: ClassName=Antenna_sw Member=J8
+Added Component: Designator=R1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "33K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=CTL_3 Pin=R1-1
+Added Pin To Net: NetName=CTL_2 Pin=R2-1
+Added Pin To Net: NetName=CTL_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=CTL_3 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=CTL_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=CTL_1 Pin=R6-2
+Added Pin To Net: NetName=CTL_1H Pin=P1-10
+Added Pin To Net: NetName=CTL_1H Pin=R3-2
+Added Net: Name=CTL_1H
+Added Pin To Net: NetName=CTL_2H Pin=P1-8
+Added Pin To Net: NetName=CTL_2H Pin=R2-2
+Added Net: Name=CTL_2H
+Added Pin To Net: NetName=CTL_3H Pin=P1-7
+Added Pin To Net: NetName=CTL_3H Pin=R1-2
+Added Net: Name=CTL_3H
+Added Member To Class: ClassName=Antenna_sw Member=Component R1 10K
+Added Member To Class: ClassName=Antenna_sw Member=Component R2 10K
+Added Member To Class: ClassName=Antenna_sw Member=Component R3 10K
+Added Member To Class: ClassName=Antenna_sw Member=Component R4 33K
+Added Member To Class: ClassName=Antenna_sw Member=Component R5 33K
+Added Member To Class: ClassName=Antenna_sw Member=Component R6 33K
+Added Room: Name=Antenna_sw
